@@ -1,8 +1,8 @@
 created: 20220919071520250
 creator: TidGiUser
-modified: 20220919071522257
+modified: 20220919093617953
 modifier: TidGiUser
 title: $:/themes/tiddlywiki/vanilla/options/codewrapping
 type: text/vnd.tiddlywiki
 
-pre-wrap
+pre
