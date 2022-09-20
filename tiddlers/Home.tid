@@ -1,7 +1,7 @@
 created: 20211015100013603
 creator: Li SongHe
-modified: 20220919063601564
-modifier: Li SongHe
+modified: 20220920012454143
+modifier: TidGiUser
 title: Home
 tmap.id: fbb91c10-7cd3-4543-be48-6a675186adee
 type: text/vnd.tiddlywiki
@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
 * [[感悟]]
 
 !!! 前端技术
-* 学习资源
+* [[学习资源]]
 * 工具
 * 社区
 
