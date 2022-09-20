@@ -20,7 +20,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:Home</loc>
-		<lastmod>2022-09-19</lastmod>
+		<lastmod>2022-09-20</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -57,6 +57,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:TIKTOK运营要点</loc>
 		<lastmod>2021-04-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:TODO</loc>
+		<lastmod>2022-09-20</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -99,6 +105,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:女教师案裁决</loc>
 		<lastmod>2021-11-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:学习资源</loc>
+		<lastmod>2022-09-20</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
