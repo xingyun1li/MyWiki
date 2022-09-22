@@ -20,7 +20,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:Home</loc>
-		<lastmod>2022-09-20</lastmod>
+		<lastmod>2022-09-22</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -177,6 +177,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:读书清单</loc>
 		<lastmod>2022-02-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:资源</loc>
+		<lastmod>2022-09-22</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
