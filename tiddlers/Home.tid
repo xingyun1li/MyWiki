@@ -1,6 +1,6 @@
 created: 20211015100013603
 creator: Li SongHe
-modified: 20220920012454143
+modified: 20220922081206004
 modifier: TidGiUser
 title: Home
 tmap.id: fbb91c10-7cd3-4543-be48-6a675186adee
@@ -32,5 +32,5 @@ type: text/vnd.tiddlywiki
 * 应用领域
 
 !!! 商业
-* 资源
+* [[资源]]
 * [[视频号]]
