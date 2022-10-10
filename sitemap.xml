@@ -26,7 +26,12 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:How%2520browser%2520works</loc>
-		<lastmod>2022-09-22</lastmod>
+		<lastmod>2022-09-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:image.png</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -115,6 +120,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:学习记录</loc>
+		<lastmod>2022-09-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:学习资源</loc>
 		<lastmod>2022-09-20</lastmod>
 		<changefreq>monthly</changefreq>
@@ -181,8 +192,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:营销笔记</loc>
+		<lastmod>2022-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:读书清单</loc>
-		<lastmod>2022-02-08</lastmod>
+		<lastmod>2022-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
