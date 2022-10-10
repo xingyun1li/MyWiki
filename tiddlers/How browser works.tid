@@ -1,9 +1,11 @@
 created: 20220922103631883
 creator: TidGiUser
-modified: 20220922105354140
+modified: 20220929064516278
 modifier: Lisonghe
 tags: 技术
 title: How browser works
 type: text/vnd.tiddlywiki
 
-[[Mozilla解释|https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work]]
+# [[Mozilla解释|https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work]]
+# [[Web.Dev解释|https://web.dev/howbrowserswork/]]
+# [[学习记录]]
